@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            // Constants
+            // Constants .
             int IS_FULL_TIME = 1;
             Random random = new Random();
             // Computation
