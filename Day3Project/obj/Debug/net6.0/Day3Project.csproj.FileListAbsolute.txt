@@ -1,0 +1,15 @@
+C:\Users\sanje\Desktop\.netC#\Day3Project\Day3Project\bin\Debug\net6.0\Day3Project.exe
+C:\Users\sanje\Desktop\.netC#\Day3Project\Day3Project\bin\Debug\net6.0\Day3Project.deps.json
+C:\Users\sanje\Desktop\.netC#\Day3Project\Day3Project\bin\Debug\net6.0\Day3Project.runtimeconfig.json
+C:\Users\sanje\Desktop\.netC#\Day3Project\Day3Project\bin\Debug\net6.0\Day3Project.dll
+C:\Users\sanje\Desktop\.netC#\Day3Project\Day3Project\bin\Debug\net6.0\Day3Project.pdb
+C:\Users\sanje\Desktop\.netC#\Day3Project\Day3Project\obj\Debug\net6.0\Day3Project.csproj.AssemblyReference.cache
+C:\Users\sanje\Desktop\.netC#\Day3Project\Day3Project\obj\Debug\net6.0\Day3Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanje\Desktop\.netC#\Day3Project\Day3Project\obj\Debug\net6.0\Day3Project.AssemblyInfoInputs.cache
+C:\Users\sanje\Desktop\.netC#\Day3Project\Day3Project\obj\Debug\net6.0\Day3Project.AssemblyInfo.cs
+C:\Users\sanje\Desktop\.netC#\Day3Project\Day3Project\obj\Debug\net6.0\Day3Project.csproj.CoreCompileInputs.cache
+C:\Users\sanje\Desktop\.netC#\Day3Project\Day3Project\obj\Debug\net6.0\Day3Project.dll
+C:\Users\sanje\Desktop\.netC#\Day3Project\Day3Project\obj\Debug\net6.0\refint\Day3Project.dll
+C:\Users\sanje\Desktop\.netC#\Day3Project\Day3Project\obj\Debug\net6.0\Day3Project.pdb
+C:\Users\sanje\Desktop\.netC#\Day3Project\Day3Project\obj\Debug\net6.0\Day3Project.genruntimeconfig.cache
+C:\Users\sanje\Desktop\.netC#\Day3Project\Day3Project\obj\Debug\net6.0\ref\Day3Project.dll
